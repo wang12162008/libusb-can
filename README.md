@@ -1,1 +1,1 @@
-# libusb-can
+公开libusb协议的usb转can设备
