@@ -1,0 +1,1 @@
+need to download usblib-win32 and run install-filter-win.exe

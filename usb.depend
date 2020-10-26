@@ -1,0 +1,408 @@
+# depslib dependency file v1.0
+1575851230 source:d:\wangping\at32-usb-can\libusbwin32_zlg\main.cpp
+	<lusb0_usb.h>
+	<stdio.h>
+	<time.h>
+	"libusbwin32_zlg.h"
+
+1310427172 d:\wangping\at32-usb-can\libusbwin32_zlg\include\lusb0_usb.h
+	<stdlib.h>
+	<windows.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1575851461 source:d:\wangping\at32-usb-can\libusbwin32_zlg\libusbwin32_zlg.cpp
+	"libusbwin32_zlg.h"
+	<lusb0_usb.h>
+	<time.h>
+	<process.h>
+
+1575684707 d:\wangping\at32-usb-can\libusbwin32_zlg\libusbwin32_zlg.h
+	<windows.h>
+	<stdio.h>
+	<vector>
+
+1576047613 source:d:\wangping\at32-usb-can\libusb_zlg\main.cpp
+	<stdio.h>
+	"libusb.h"
+	<libusb.h>
+	<stdio.h>
+	<time.h>
+	"libusbwin32_zlg.h"
+	"zlgusbcan.h"
+
+1521939600 d:\wangping\at32-usb-can\libusb_zlg\libusb.h
+	<stdint.h>
+	<sys/types.h>
+	<sys/time.h>
+	<time.h>
+	<limits.h>
+	<windows.h>
+	<winsock.h>
+
+1576031342 source:d:\wangping\at32-usb-can\libusb_zlg\libusbwin32_zlg.cpp
+	"libusbwin32_zlg.h"
+	"libusb.h"
+	<time.h>
+
+1575684707 d:\wangping\at32-usb-can\libusb_zlg\libusbwin32_zlg.h
+	<windows.h>
+	<stdio.h>
+	<vector>
+
+1310427172 d:\wangping\at32-usb-can\libusb_zlg\include\lusb0_usb.h
+	<stdlib.h>
+	<windows.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1576048691 source:d:\wangping\at32-usb-can\libusb_zlg\zlgusbcan2.cpp
+	<windows.h>
+	<stdio.h>
+	"ControlCAN.H"
+	"libusb.h"
+
+1575959269 d:\wangping\at32-usb-can\libusb_zlg\controlcan.h
+
+1522154011 source:d:\wangping\at32-usb-can\libusb_zlg\myfile.cpp
+	"myFile.h"
+
+1447837830 d:\wangping\at32-usb-can\libusb_zlg\myfile.h
+	<stdio.h>
+	<io.h>
+	<string.h>
+	<windows.h>
+
+1563262607 source:d:\wangping\at32-usb-can\libusb_zlg\zlgusbcan.cpp
+	"zlgusbcan.h"
+	<time.h>
+
+1576048051 d:\wangping\at32-usb-can\libusb_zlg\zlgusbcan.h
+	<windows.h>
+	"ControlCAN.h"
+	"myFile.h"
+	<algorithm>
+	<stdio.h>
+	<vector>
+	<string>
+
+1576047613 source:d:\wangping\1上位机软件\libusb_zlg\main.cpp
+	<stdio.h>
+	"libusb.h"
+	<libusb.h>
+	<stdio.h>
+	<time.h>
+	"libusbwin32_zlg.h"
+	"zlgusbcan.h"
+
+1521939600 d:\wangping\1上位机软件\libusb_zlg\libusb.h
+	<stdint.h>
+	<sys/types.h>
+	<sys/time.h>
+	<time.h>
+	<limits.h>
+	<windows.h>
+	<winsock.h>
+
+1575684707 d:\wangping\1上位机软件\libusb_zlg\libusbwin32_zlg.h
+	<windows.h>
+	<stdio.h>
+	<vector>
+
+1595821913 d:\wangping\1上位机软件\libusb_zlg\zlgusbcan.h
+	<windows.h>
+	"ControlCAN.h"
+	"myFile.h"
+	<algorithm>
+	<stdio.h>
+	<vector>
+	<string>
+
+1575959269 d:\wangping\1上位机软件\libusb_zlg\controlcan.h
+
+1447837830 d:\wangping\1上位机软件\libusb_zlg\myfile.h
+	<stdio.h>
+	<io.h>
+	<string.h>
+	<windows.h>
+
+1522154011 source:d:\wangping\1上位机软件\libusb_zlg\myfile.cpp
+	"myFile.h"
+
+1563262607 source:d:\wangping\1上位机软件\libusb_zlg\zlgusbcan.cpp
+	"zlgusbcan.h"
+	<time.h>
+
+1603066322 source:d:\wangping\1上位机软件\libusb_zlg\zlgusbcan2.cpp
+	<windows.h>
+	<stdio.h>
+	"ControlCAN.H"
+	"libusb.h"
+
+1603184316 source:d:\wangping\1上位机软件\libusb_zlg - 副本\main.cpp
+	<stdio.h>
+	"libusb.h"
+	<libusb.h>
+	<stdio.h>
+	<time.h>
+	"libusbwin32_zlg.h"
+	"zlgusbcan.h"
+
+1521939600 d:\wangping\1上位机软件\libusb_zlg - 副本\libusb.h
+	<stdint.h>
+	<sys/types.h>
+	<sys/time.h>
+	<time.h>
+	<limits.h>
+	<windows.h>
+	<winsock.h>
+
+1575684707 d:\wangping\1上位机软件\libusb_zlg - 副本\libusbwin32_zlg.h
+	<windows.h>
+	<stdio.h>
+	<vector>
+
+1595821913 d:\wangping\1上位机软件\libusb_zlg - 副本\zlgusbcan.h
+	<windows.h>
+	"ControlCAN.h"
+	"myFile.h"
+	<algorithm>
+	<stdio.h>
+	<vector>
+	<string>
+
+1575959269 d:\wangping\1上位机软件\libusb_zlg - 副本\controlcan.h
+
+1447837830 d:\wangping\1上位机软件\libusb_zlg - 副本\myfile.h
+	<stdio.h>
+	<io.h>
+	<string.h>
+	<windows.h>
+
+1522154011 source:d:\wangping\1上位机软件\libusb_zlg - 副本\myfile.cpp
+	"myFile.h"
+
+1563262607 source:d:\wangping\1上位机软件\libusb_zlg - 副本\zlgusbcan.cpp
+	"zlgusbcan.h"
+	<time.h>
+
+1603184287 source:d:\wangping\1上位机软件\libusb_zlg - 副本\zlgusbcan2.cpp
+	<windows.h>
+	<stdio.h>
+	"ControlCAN.H"
+	"libusb.h"
+
+1603244670 source:d:\wangping\1上位机软件\libusb_zlg-test\main.cpp
+	<stdio.h>
+	"libusb.h"
+	<libusb.h>
+	<stdio.h>
+	<time.h>
+	"libusbwin32_zlg.h"
+	"zlgusbcan.h"
+
+1521939600 d:\wangping\1上位机软件\libusb_zlg-test\libusb.h
+	<stdint.h>
+	<sys/types.h>
+	<sys/time.h>
+	<time.h>
+	<limits.h>
+	<windows.h>
+	<winsock.h>
+
+1575684707 d:\wangping\1上位机软件\libusb_zlg-test\libusbwin32_zlg.h
+	<windows.h>
+	<stdio.h>
+	<vector>
+
+1595821913 d:\wangping\1上位机软件\libusb_zlg-test\zlgusbcan.h
+	<windows.h>
+	"ControlCAN.h"
+	"myFile.h"
+	<algorithm>
+	<stdio.h>
+	<vector>
+	<string>
+
+1575959269 d:\wangping\1上位机软件\libusb_zlg-test\controlcan.h
+
+1447837830 d:\wangping\1上位机软件\libusb_zlg-test\myfile.h
+	<stdio.h>
+	<io.h>
+	<string.h>
+	<windows.h>
+
+1522154011 source:d:\wangping\1上位机软件\libusb_zlg-test\myfile.cpp
+	"myFile.h"
+
+1563262607 source:d:\wangping\1上位机软件\libusb_zlg-test\zlgusbcan.cpp
+	"zlgusbcan.h"
+	<time.h>
+
+1603244717 source:d:\wangping\1上位机软件\libusb_zlg-test\zlgusbcan2.cpp
+	<windows.h>
+	<stdio.h>
+	"ControlCAN.H"
+	"libusb.h"
+
+1603351184 source:d:\wangping\1上位机软件\libusb_zlg-winusb\main.cpp
+	<conio.h>
+	<stdio.h>
+	"libusb.h"
+	<libusb.h>
+	<stdio.h>
+	<time.h>
+	"libusbwin32_zlg.h"
+	"zlgusbcan.h"
+
+1521939600 d:\wangping\1上位机软件\libusb_zlg-winusb\libusb.h
+	<stdint.h>
+	<sys/types.h>
+	<sys/time.h>
+	<time.h>
+	<limits.h>
+	<windows.h>
+	<winsock.h>
+
+1575684707 d:\wangping\1上位机软件\libusb_zlg-winusb\libusbwin32_zlg.h
+	<windows.h>
+	<stdio.h>
+	<vector>
+
+1603351488 d:\wangping\1上位机软件\libusb_zlg-winusb\zlgusbcan.h
+	<windows.h>
+	"ControlCAN.h"
+	"myFile.h"
+	<algorithm>
+	<stdio.h>
+	<vector>
+	<string>
+
+1575959269 d:\wangping\1上位机软件\libusb_zlg-winusb\controlcan.h
+
+1447837830 d:\wangping\1上位机软件\libusb_zlg-winusb\myfile.h
+	<stdio.h>
+	<io.h>
+	<string.h>
+	<windows.h>
+
+1603351051 source:d:\wangping\1上位机软件\libusb_zlg-winusb\myfile.cpp
+	"myFile.h"
+
+1603351481 source:d:\wangping\1上位机软件\libusb_zlg-winusb\zlgusbcan.cpp
+	"zlgusbcan.h"
+	<time.h>
+
+1603350998 source:d:\wangping\1上位机软件\libusb_zlg-winusb\zlgusbcan2.cpp
+	<windows.h>
+	<stdio.h>
+	"ControlCAN.H"
+	"libusb.h"
+
+1603258954 source:d:\wangping\1上位机软件\libusb_zlg-winusb-t\main.cpp
+	<stdio.h>
+	"libusb.h"
+	<libusb.h>
+	<stdio.h>
+	<time.h>
+	"libusbwin32_zlg.h"
+	"zlgusbcan.h"
+
+1521939600 d:\wangping\1上位机软件\libusb_zlg-winusb-t\libusb.h
+	<stdint.h>
+	<sys/types.h>
+	<sys/time.h>
+	<time.h>
+	<limits.h>
+	<windows.h>
+	<winsock.h>
+
+1575684707 d:\wangping\1上位机软件\libusb_zlg-winusb-t\libusbwin32_zlg.h
+	<windows.h>
+	<stdio.h>
+	<vector>
+
+1595821913 d:\wangping\1上位机软件\libusb_zlg-winusb-t\zlgusbcan.h
+	<windows.h>
+	"ControlCAN.h"
+	"myFile.h"
+	<algorithm>
+	<stdio.h>
+	<vector>
+	<string>
+
+1575959269 d:\wangping\1上位机软件\libusb_zlg-winusb-t\controlcan.h
+
+1447837830 d:\wangping\1上位机软件\libusb_zlg-winusb-t\myfile.h
+	<stdio.h>
+	<io.h>
+	<string.h>
+	<windows.h>
+
+1522154011 source:d:\wangping\1上位机软件\libusb_zlg-winusb-t\myfile.cpp
+	"myFile.h"
+
+1563262607 source:d:\wangping\1上位机软件\libusb_zlg-winusb-t\zlgusbcan.cpp
+	"zlgusbcan.h"
+	<time.h>
+
+1603258911 source:d:\wangping\1上位机软件\libusb_zlg-winusb-t\zlgusbcan2.cpp
+	<windows.h>
+	<stdio.h>
+	"ControlCAN.H"
+	"libusb.h"
+
+1603696268 source:d:\wangping\1上位机软件\libusb_my-winusb\main.cpp
+	<conio.h>
+	<stdio.h>
+	"libusb.h"
+	<libusb.h>
+	<stdio.h>
+	<time.h>
+	"libusbwin32_zlg.h"
+	"zlgusbcan.h"
+
+1521939600 d:\wangping\1上位机软件\libusb_my-winusb\libusb.h
+	<stdint.h>
+	<sys/types.h>
+	<sys/time.h>
+	<time.h>
+	<limits.h>
+	<windows.h>
+	<winsock.h>
+
+1575684707 d:\wangping\1上位机软件\libusb_my-winusb\libusbwin32_zlg.h
+	<windows.h>
+	<stdio.h>
+	<vector>
+
+1603695500 d:\wangping\1上位机软件\libusb_my-winusb\zlgusbcan.h
+	<windows.h>
+	"ControlCAN.h"
+	"myFile.h"
+	<algorithm>
+	<stdio.h>
+	<vector>
+	<string>
+
+1575959269 d:\wangping\1上位机软件\libusb_my-winusb\controlcan.h
+
+1447837830 d:\wangping\1上位机软件\libusb_my-winusb\myfile.h
+	<stdio.h>
+	<io.h>
+	<string.h>
+	<windows.h>
+
+1603351051 source:d:\wangping\1上位机软件\libusb_my-winusb\myfile.cpp
+	"myFile.h"
+
+1603696242 source:d:\wangping\1上位机软件\libusb_my-winusb\zlgusbcan.cpp
+	"zlgusbcan.h"
+	<time.h>
+
+1603696222 source:d:\wangping\1上位机软件\libusb_my-winusb\zlgusbcan2.cpp
+	<windows.h>
+	<stdio.h>
+	"ControlCAN.H"
+	"libusb.h"
+
