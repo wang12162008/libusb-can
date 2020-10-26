@@ -1,1 +1,4 @@
 公开libusb协议的usb转can设备
+简单测试协议，用codeblocks直接可以编译测试，完整的usb协议说明。
+有问题联系wang12162008@163.com
+二次封装了ZLG的usbcan2的API
