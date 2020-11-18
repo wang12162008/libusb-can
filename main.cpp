@@ -820,6 +820,8 @@ int main()
     printf("send time %dms\n",st);
 
     zlg.close();
+    zlg.close();
+    zlg.close();
 
 
     return 0;
