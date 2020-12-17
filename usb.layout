@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+<<<<<<< HEAD
+	<File name="zlgusbcan.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="641" topLine="25" />
+		</Cursor>
+	</File>
+	<File name="zlgusbcan2.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="26673" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="myFile.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1767" topLine="56" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21316" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ControlCAN.H" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4093" topLine="145" />
+=======
+	<File name="myFile.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1767" topLine="56" />
+		</Cursor>
+	</File>
+	<File name="zlgusbcan.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="641" topLine="25" />
+		</Cursor>
+	</File>
+	<File name="zlgusbcan.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13707" topLine="457" />
+		</Cursor>
+	</File>
+	<File name="zlgusbcan2.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="26673" topLine="943" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21316" topLine="780" />
+>>>>>>> 040d53bc4aba57b7a6d736e2a834701b731472ca
+		</Cursor>
+	</File>
+	<File name="myFile.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+<<<<<<< HEAD
+	<File name="zlgusbcan.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13707" topLine="6" />
+=======
+	<File name="ControlCAN.H" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4093" topLine="145" />
+>>>>>>> 040d53bc4aba57b7a6d736e2a834701b731472ca
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
